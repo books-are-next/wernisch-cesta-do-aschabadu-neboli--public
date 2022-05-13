@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nikam</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TY, KTERÁ HLEDÍŠ</text>
+      </navLabel>
+      <content src="cesta_do_aschabadu_006.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Ty, která hledíš</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_007.xhtml#toc_marker-1-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>CESTA DO AŠCHABADU</text>
+      </navLabel>
+      <content src="cesta_do_aschabadu_008.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Chvíli svítí slunce</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_009.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Cesta do Ašchabadu</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_010.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Z řeky se kouří</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_011.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Vítězná píseň</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_012.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Poklička klape</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_013.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Mistr Kadó</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_014.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Zimník</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_015.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Jeden chudý starý muž</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_016.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Krev teče (Pygmejové, rovníková Afrika)</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_017.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Pumpke a dalajlámové</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_018.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Zhasla světla</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_019.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Smrt na nás čekala jinde</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_020.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Leskne se bahno</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_021.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Na cestě v polích</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_022.xhtml#toc_marker-2-14"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Jednou si mistr Kadó jen tak vyšel</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_023.xhtml#toc_marker-2-15"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Mír pokračuje</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_024.xhtml#toc_marker-2-16"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Výlet (Bombardamento di Vienna)</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_025.xhtml#toc_marker-2-17"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>U císařského letectva</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_026.xhtml#toc_marker-2-18"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Z dějin leteckého umění</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_027.xhtml#toc_marker-2-19"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Duce</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_028.xhtml#toc_marker-2-20"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>V poledním žáru</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_029.xhtml#toc_marker-2-21"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Šašci</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_030.xhtml#toc_marker-2-22"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Když sem šel do Temešváru (Cikáni)</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_031.xhtml#toc_marker-2-23"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>V poledním žáru</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_032.xhtml#toc_marker-2-24"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Vozík</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_033.xhtml#toc_marker-2-25"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Na ostrově</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_034.xhtml#toc_marker-2-26"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Mistr Kadó si zul</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_035.xhtml#toc_marker-2-27"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Chlebová polévka</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_036.xhtml#toc_marker-2-28"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Rakve jdou</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_037.xhtml#toc_marker-2-29"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Vozová cesta v lese</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_038.xhtml#toc_marker-2-30"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Ranní déšť věstil štěstí</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_039.xhtml#toc_marker-2-31"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Řekl Yün-men mnichům</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_040.xhtml#toc_marker-2-32"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>V zimních lesích u Volchova</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_041.xhtml#toc_marker-2-33"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>A řekl Yün-men</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_042.xhtml#toc_marker-2-34"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Pak Yün-men pokračoval</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_043.xhtml#toc_marker-2-35"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Zavanulo ode dveří</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_044.xhtml#toc_marker-2-36"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Jednoho rána se objevilo slunce</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_045.xhtml#toc_marker-2-37"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Mistr Kadó</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_046.xhtml#toc_marker-2-38"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Měli jsme štěstí</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_047.xhtml#toc_marker-2-39"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Při pohledu na mrtvého havrana (Severoameričtí Eskymáci, Hudsonův záliv)</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_048.xhtml#toc_marker-2-40"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Byla noc úplného měsíce</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_049.xhtml#toc_marker-2-41"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Poslední den</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_050.xhtml#toc_marker-2-42"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Zpívají bojovníci (Omahové, Severní Amerika)</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_051.xhtml#toc_marker-2-43"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Toto</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_052.xhtml#toc_marker-2-44"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Na cestě</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_053.xhtml#toc_marker-2-45"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Zeptejte se mne nyní</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_054.xhtml#toc_marker-2-46"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Stmívá se</text>
+        </navLabel>
+        <content src="cesta_do_aschabadu_055.xhtml#toc_marker-2-47"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

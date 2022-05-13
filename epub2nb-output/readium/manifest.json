@@ -1,0 +1,474 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Cesta do Ašchabadu",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ivan Wernisch",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-05-13T00:00:00.000Z",
+    "published": "2020-05-13T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "1.2.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cesta_do_aschabadu_056.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/css/cesta_do_a_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/obalka_cesta_do_aschab_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "TY, KTERÁ HLEDÍŠ",
+      "children": [
+        {
+          "title": "Ty, která hledíš",
+          "href": "OEBPS/cesta_do_aschabadu_007.xhtml#toc_marker-1-1"
+        }
+      ],
+      "href": "OEBPS/cesta_do_aschabadu_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "CESTA DO AŠCHABADU",
+      "children": [
+        {
+          "title": "Chvíli svítí slunce",
+          "href": "OEBPS/cesta_do_aschabadu_009.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "Cesta do Ašchabadu",
+          "href": "OEBPS/cesta_do_aschabadu_010.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "Z řeky se kouří",
+          "href": "OEBPS/cesta_do_aschabadu_011.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "Vítězná píseň",
+          "href": "OEBPS/cesta_do_aschabadu_012.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "Poklička klape",
+          "href": "OEBPS/cesta_do_aschabadu_013.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "Mistr Kadó",
+          "href": "OEBPS/cesta_do_aschabadu_014.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "Zimník",
+          "href": "OEBPS/cesta_do_aschabadu_015.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "Jeden chudý starý muž",
+          "href": "OEBPS/cesta_do_aschabadu_016.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "Krev teče (Pygmejové, rovníková Afrika)",
+          "href": "OEBPS/cesta_do_aschabadu_017.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "Pumpke a dalajlámové",
+          "href": "OEBPS/cesta_do_aschabadu_018.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "Zhasla světla",
+          "href": "OEBPS/cesta_do_aschabadu_019.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "Smrt na nás čekala jinde",
+          "href": "OEBPS/cesta_do_aschabadu_020.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "Leskne se bahno",
+          "href": "OEBPS/cesta_do_aschabadu_021.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "Na cestě v polích",
+          "href": "OEBPS/cesta_do_aschabadu_022.xhtml#toc_marker-2-14"
+        },
+        {
+          "title": "Jednou si mistr Kadó jen tak vyšel",
+          "href": "OEBPS/cesta_do_aschabadu_023.xhtml#toc_marker-2-15"
+        },
+        {
+          "title": "Mír pokračuje",
+          "href": "OEBPS/cesta_do_aschabadu_024.xhtml#toc_marker-2-16"
+        },
+        {
+          "title": "Výlet (Bombardamento di Vienna)",
+          "href": "OEBPS/cesta_do_aschabadu_025.xhtml#toc_marker-2-17"
+        },
+        {
+          "title": "U císařského letectva",
+          "href": "OEBPS/cesta_do_aschabadu_026.xhtml#toc_marker-2-18"
+        },
+        {
+          "title": "Z dějin leteckého umění",
+          "href": "OEBPS/cesta_do_aschabadu_027.xhtml#toc_marker-2-19"
+        },
+        {
+          "title": "Duce",
+          "href": "OEBPS/cesta_do_aschabadu_028.xhtml#toc_marker-2-20"
+        },
+        {
+          "title": "V poledním žáru",
+          "href": "OEBPS/cesta_do_aschabadu_029.xhtml#toc_marker-2-21"
+        },
+        {
+          "title": "Šašci",
+          "href": "OEBPS/cesta_do_aschabadu_030.xhtml#toc_marker-2-22"
+        },
+        {
+          "title": "Když sem šel do Temešváru (Cikáni)",
+          "href": "OEBPS/cesta_do_aschabadu_031.xhtml#toc_marker-2-23"
+        },
+        {
+          "title": "V poledním žáru",
+          "href": "OEBPS/cesta_do_aschabadu_032.xhtml#toc_marker-2-24"
+        },
+        {
+          "title": "Vozík",
+          "href": "OEBPS/cesta_do_aschabadu_033.xhtml#toc_marker-2-25"
+        },
+        {
+          "title": "Na ostrově",
+          "href": "OEBPS/cesta_do_aschabadu_034.xhtml#toc_marker-2-26"
+        },
+        {
+          "title": "Mistr Kadó si zul",
+          "href": "OEBPS/cesta_do_aschabadu_035.xhtml#toc_marker-2-27"
+        },
+        {
+          "title": "Chlebová polévka",
+          "href": "OEBPS/cesta_do_aschabadu_036.xhtml#toc_marker-2-28"
+        },
+        {
+          "title": "Rakve jdou",
+          "href": "OEBPS/cesta_do_aschabadu_037.xhtml#toc_marker-2-29"
+        },
+        {
+          "title": "Vozová cesta v lese",
+          "href": "OEBPS/cesta_do_aschabadu_038.xhtml#toc_marker-2-30"
+        },
+        {
+          "title": "Ranní déšť věstil štěstí",
+          "href": "OEBPS/cesta_do_aschabadu_039.xhtml#toc_marker-2-31"
+        },
+        {
+          "title": "Řekl Yün-men mnichům",
+          "href": "OEBPS/cesta_do_aschabadu_040.xhtml#toc_marker-2-32"
+        },
+        {
+          "title": "V zimních lesích u Volchova",
+          "href": "OEBPS/cesta_do_aschabadu_041.xhtml#toc_marker-2-33"
+        },
+        {
+          "title": "A řekl Yün-men",
+          "href": "OEBPS/cesta_do_aschabadu_042.xhtml#toc_marker-2-34"
+        },
+        {
+          "title": "Pak Yün-men pokračoval",
+          "href": "OEBPS/cesta_do_aschabadu_043.xhtml#toc_marker-2-35"
+        },
+        {
+          "title": "Zavanulo ode dveří",
+          "href": "OEBPS/cesta_do_aschabadu_044.xhtml#toc_marker-2-36"
+        },
+        {
+          "title": "Jednoho rána se objevilo slunce",
+          "href": "OEBPS/cesta_do_aschabadu_045.xhtml#toc_marker-2-37"
+        },
+        {
+          "title": "Mistr Kadó",
+          "href": "OEBPS/cesta_do_aschabadu_046.xhtml#toc_marker-2-38"
+        },
+        {
+          "title": "Měli jsme štěstí",
+          "href": "OEBPS/cesta_do_aschabadu_047.xhtml#toc_marker-2-39"
+        },
+        {
+          "title": "Při pohledu na mrtvého havrana (Severoameričtí Eskymáci, Hudsonův záliv)",
+          "href": "OEBPS/cesta_do_aschabadu_048.xhtml#toc_marker-2-40"
+        },
+        {
+          "title": "Byla noc úplného měsíce",
+          "href": "OEBPS/cesta_do_aschabadu_049.xhtml#toc_marker-2-41"
+        },
+        {
+          "title": "Poslední den",
+          "href": "OEBPS/cesta_do_aschabadu_050.xhtml#toc_marker-2-42"
+        },
+        {
+          "title": "Zpívají bojovníci (Omahové, Severní Amerika)",
+          "href": "OEBPS/cesta_do_aschabadu_051.xhtml#toc_marker-2-43"
+        },
+        {
+          "title": "Toto",
+          "href": "OEBPS/cesta_do_aschabadu_052.xhtml#toc_marker-2-44"
+        },
+        {
+          "title": "Na cestě",
+          "href": "OEBPS/cesta_do_aschabadu_053.xhtml#toc_marker-2-45"
+        },
+        {
+          "title": "Zeptejte se mne nyní",
+          "href": "OEBPS/cesta_do_aschabadu_054.xhtml#toc_marker-2-46"
+        },
+        {
+          "title": "Stmívá se",
+          "href": "OEBPS/cesta_do_aschabadu_055.xhtml#toc_marker-2-47"
+        }
+      ],
+      "href": "OEBPS/cesta_do_aschabadu_008.xhtml#toc_marker-2"
+    }
+  ]
+}
