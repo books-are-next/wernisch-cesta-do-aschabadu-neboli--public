@@ -1,8 +1,7 @@
 ---
+title: Když sem šel do Temešváru
 contentType: prose
 ---
-
-Když sem šel do Temešváru
 
 _(Cikáni)_
 
@@ -14,6 +13,8 @@ Dva do mě mlátili
 
 _Dva do mě mlátili, třetí se ptal_
 
+  
+
 — Kde sou koně, zkurvysynu
 
 Kde sou ty koně,
@@ -24,6 +25,8 @@ a kde máš peníze,
 
 _zasranej cigáne_
 
+  
+
 — Ptáš se na peníze?
 
 Ptáš se na peníze,
@@ -31,6 +34,8 @@ Ptáš se na peníze,
 který sem dostal?
 
 _Prochlastal sem je a prožral!_
+
+  
 
 Polovinu sem jich prožral,
 

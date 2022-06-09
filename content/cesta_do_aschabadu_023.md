@@ -1,8 +1,7 @@
 ---
+title: Jednou si mistr Kadó jen tak vyšel
 contentType: prose
 ---
-
-Jednou si mistr Kadó jen tak vyšel
 
 Jednou si mistr Kadó jen tak vyšel na procházku do polí a vrátil se odtud s rozbitým čelem a s odřenými koleny. V náruči nesl veliký, těžký kámen.
 

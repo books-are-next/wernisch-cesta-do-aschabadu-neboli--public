@@ -1,8 +1,7 @@
 ---
+title: Zavanulo ode dveří
 contentType: prose
 ---
-
-Zavanulo ode dveří
 
 Zavanulo ode dveří
 

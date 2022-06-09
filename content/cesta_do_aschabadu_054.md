@@ -1,8 +1,7 @@
 ---
+title: Zeptejte se mne nyní
 contentType: prose
 ---
-
-Zeptejte se mne nyní
 
 Zeptejte se mne nyní, řekl Yün-men, proč, jak a kudy odejdu jednou do Země mnoha chrámů.
 

@@ -1,8 +1,7 @@
 ---
+title: Leskne se bahno
 contentType: prose
 ---
-
-Leskne se bahno
 
 Leskne se bahno
 

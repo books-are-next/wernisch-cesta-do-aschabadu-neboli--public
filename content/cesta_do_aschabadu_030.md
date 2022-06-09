@@ -1,8 +1,7 @@
 ---
+title: Šašci
 contentType: prose
 ---
-
-Šašci
 
 _Wenn Kriegskameraden beisamen sind,_
 
@@ -16,9 +15,11 @@ _Das singt die Seele, schweigt auch der Mund:_
 
 _Es ist keiner Fremd im geheiligten Bund._
 
-Heinrich Lersch
+> Heinrich Lersch
 
 _Vypadalo to s námi špatně_
+
+  
 
 Tak špatně,
 
@@ -26,13 +27,19 @@ Tak špatně,
 
 _aby se pomodlil i za mě_
 
+  
+
 V té chvíli na nás obrátili těžkou houfnici,
 
 _a to bylo naše štěstí_
 
+  
+
 Komín cihelny padl přes silnici, ale zůstal v celku,
 
 _jen se položil_
+
+  
 
 Prolezli jsme jím,
 
@@ -44,9 +51,13 @@ skoro všichni. Zraněný šikovatel Kappler se zastřelil,
 
 _abychom s ním už neměli starosti_
 
+  
+
 Zachránili jsme něco munice, trochu potravin, minomet
 
 _a oba lehké kulomety_
+
+  
 
 Přes řeku jsme přeběhli po traverzách železničního mostu,
 
@@ -54,17 +65,25 @@ který se včera fušerům z první roty nepodařilo
 
         _vyhodit do povětří_
 
+  
+
 _Právě uprostřed, nad nejprudším proudem Strewe uklouzl a zmizel_
+
+  
 
 Bedna s koňakem, kterou měl na zádech,
 
 _ho stáhla ke dnu_
+
+  
 
 Na druhém břehu, za šípkovými keři
 
 jsme sebou praštili, a jak tak popadáme dech,
 
 _strčí mi Stiller pěst pod nos a řekne: Ty se teď modli, šašku_
+
+  
 
 Britové se dál strefovali do cihelny
 

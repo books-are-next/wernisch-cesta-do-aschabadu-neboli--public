@@ -1,8 +1,7 @@
 ---
+title: Jeden chudý starý muž
 contentType: prose
 ---
-
-Jeden chudý starý muž
 
 Jeden chudý starý muž neměl čím nakrmit svého ko­houta. Kohout se rozzlobil, stoupl si na břeh řeky, na­foukl se a volal: Všechno, co voda přinese, sezobnu!
 

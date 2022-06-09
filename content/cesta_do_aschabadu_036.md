@@ -1,10 +1,11 @@
 ---
+title: Chlebová polévka
 contentType: prose
 ---
 
-Chlebová polévka
-
 _Dokud žijeme, můžem snít o životě_
+
+  
 
 Když nesníme o životě,
 
@@ -15,6 +16,8 @@ pak buď bojujeme o život, nebo si hledáme
 Když nevaříme, bojujeme,
 
 _když nebojujeme, vaříme_
+
+  
 
 A tak jako v zákopech bojujeme
 
@@ -28,6 +31,8 @@ tak nějak také vaříme — v plechovkách, v přilbách,
 
 _ponejvíce z chleba_
 
+  
+
 Když se tvrdý chléb rozvaří ve vodě,
 
 docela to stačí, člověk se nají
@@ -35,6 +40,8 @@ docela to stačí, člověk se nají
 a chuť to nemá špatnou
 
 _Říká se tomu chlebová polévka_
+
+  
 
 Je dobré přidat brambor,
 
@@ -48,6 +55,8 @@ prostě vše, co máme
 
 _I to je chlebová polévka_
 
+  
+
 Když není ani chléb,
 
 vaříme sladký kořen a strouhané řemeny a řepné listy
@@ -55,6 +64,8 @@ vaříme sladký kořen a strouhané řemeny a řepné listy
 s trochou kolomazi
 
 _a špetkou vápna_
+
+  
 
 Masa je všude kolem dost
 
@@ -64,8 +75,12 @@ ale kdo jím svou stravu vylepší,
 
 _bude zastřelen,_
 
+  
+
 jestliže se prozradí,
 
 _jestliže se mu na to přijde_
+
+  
 
 Maso je pro krysy

@@ -1,8 +1,7 @@
 ---
+title: A řekl Yün-men
 contentType: prose
 ---
-
-A řekl Yün-men
 
 A řekl Yün-men mnichům: Teď se mne zeptejte, jak vy­padá opravdová lež.
 

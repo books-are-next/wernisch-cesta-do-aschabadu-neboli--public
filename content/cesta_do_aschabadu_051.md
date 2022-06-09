@@ -1,10 +1,11 @@
 ---
+title: Zpívají bojovníci
 contentType: prose
 ---
 
-Zpívají bojovníci
-
 _(Omahové, Severní Amerika)_
+
+  
 
 Pohleďte, jak strašlivý je náš bůh, náš strašlivý otec!
 

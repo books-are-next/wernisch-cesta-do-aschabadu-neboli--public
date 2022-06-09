@@ -1,8 +1,7 @@
 ---
+title: Chvíli svítí slunce
 contentType: prose
 ---
-
-Chvíli svítí slunce
 
 Chvíli svítí slunce, chvíli poprchává
 
