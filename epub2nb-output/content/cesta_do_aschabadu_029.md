@@ -1,8 +1,7 @@
 ---
+title: V poledním žáru
 contentType: prose
 ---
-
-V poledním žáru
 
 V poledním žáru
 

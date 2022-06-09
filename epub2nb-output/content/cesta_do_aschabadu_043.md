@@ -1,8 +1,7 @@
 ---
+title: Pak Yün-men pokračoval
 contentType: prose
 ---
-
-Pak Yün-men pokračoval
 
 Pak Yün-men pokračoval: Ano, pravda je stejně ne­důležitá jako lež. Více záleží na tom, co je mezi nimi. Nevěříte? Tak mi sem někdo přineste záchodové bidlo.
 

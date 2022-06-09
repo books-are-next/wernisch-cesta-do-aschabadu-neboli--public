@@ -1,8 +1,7 @@
 ---
+title: Vozík
 contentType: prose
 ---
-
-Vozík
 
 _Mein Tractament ist Käs und Brot_
 
@@ -16,7 +15,7 @@ _Brot, Wasser und ein Pfeif Tabak,_
 
 _So lass ich mich begnügen._
 
-(Aus dem 30jährigen Krieg)
+> (Aus dem 30jährigen Krieg)
 
 Rychlým pochodem dorazili jsme k Ressons sur Metz
 
@@ -28,6 +27,8 @@ Byl zde úplný klid
 
         _500 metrů od nepřítele_
 
+  
+
 Všude jinde očazené pahýly, krvavé bláto, země
 
 zobracená
@@ -35,6 +36,8 @@ zobracená
 a tady — podzim
 
 _Měli jsme štěstí_
+
+  
 
 Máme štěstí
 
@@ -45,6 +48,8 @@ Zůstaly po nich kabáty, houně, aluminiové lžíce
         a jídelní misky,
 
 _to vše bychom ještě mohli upotřebit_
+
+  
 
 V lesíku 100 kroků za pozicí mé čety ambulance
 
@@ -58,6 +63,8 @@ a s nimi signalisté, telefonista, spojky k četám,
 
         _cyklista a trubač_
 
+  
+
 Na druhé straně je klid
 
 Jen tu a tam pohne se nad zákopem
@@ -66,13 +73,19 @@ Jen tu a tam pohne se nad zákopem
 
 _Nebo se to jen zdá_
 
+  
+
 A támhle — pozor, tam ukryli strojní pušku
 
 _A o kus dál — v zahradě, na zídce — je další_
 
+  
+
 Mají tam jabloně a švestky
 
 _Kolem kostelní věže krouží kavky_
+
+  
 
 První den, druhý den a třetí,
 
@@ -80,13 +93,21 @@ a další den,
 
 _slunce hřeje, ještěrky běhají po bílých kamenech_
 
+  
+
 _Čtvrtou noc obcházím hlídky,_
 
+  
+
 _najednou skřípání a klapot_
+
+  
 
 Počkejte,
 
 _nestřílet! To přece nemůže být jen tak_
+
+  
 
 Po cestě od tamtěch pomalu přijíždí vozík
 
@@ -95,6 +116,8 @@ tažený mulou
 U zátarasu zastavuje
 
 _Sedí v něm německý poddůstojník_
+
+  
 
 S hlavou skloněnou, bez tváře, pod bradou železný kříž,
 

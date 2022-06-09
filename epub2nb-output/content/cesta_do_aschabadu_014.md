@@ -1,8 +1,7 @@
 ---
+title: Mistr Kadó
 contentType: prose
 ---
-
-Mistr Kadó
 
 Mistr Kadó strčil svému žákovi do ruky hůl a řekl: Udeř mne.
 

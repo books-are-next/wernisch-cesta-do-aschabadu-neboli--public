@@ -1,5 +1,6 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Janu Kotíkovi a Ruth Kotíkové věnováno
+_Janu Kotíkovi a Ruth Kotíkové věnováno_

@@ -1,8 +1,7 @@
 ---
+title: Mistr Kadó
 contentType: prose
 ---
-
-Mistr Kadó
 
 Mistr Kadó vedl své žáky po můstku přes potok. Vpůli se zastavil a zeptal se: Jsme nyní uprostřed můstku, nebo uprostřed potoka?
 

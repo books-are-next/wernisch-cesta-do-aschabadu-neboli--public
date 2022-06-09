@@ -1,8 +1,7 @@
 ---
+title: Poklička klape
 contentType: prose
 ---
-
-Poklička klape
 
 Poklička klape, plotna syčí, polévka přetéká
 

@@ -1,8 +1,7 @@
 ---
+title: Řekl Yün-men mnichům
 contentType: prose
 ---
-
-Řekl Yün-men mnichům
 
 Řekl Yün-men mnichům: Zeptejte se mne, jak vypadá opravdová pravda.
 

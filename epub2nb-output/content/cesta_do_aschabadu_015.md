@@ -1,8 +1,7 @@
 ---
+title: Zimník
 contentType: prose
 ---
-
-Zimník
 
 _o katalominai rhinozerossola hopsamen laulitalomini hoooo_
 
@@ -10,7 +9,7 @@ _gadjama rhinozerossola hopsamen_
 
 _bluku terullala blaulala loooo_
 
-Hugo Ball
+> Hugo Ball
 
 Dostal jsem kolesový parník Brazaville,
 
@@ -30,6 +29,8 @@ a jako strojníka zběha „s nárokem na milost“
 
         _dočasně propuštěného z divizního vězení_
 
+  
+
 Hned po nalodění
 
 Hayez, jehož jsem jmenoval intendantem, přišel za mnou
@@ -38,9 +39,13 @@ Hayez, jehož jsem jmenoval intendantem, přišel za mnou
 
 _že máme o čtyři guláše míň_
 
+  
+
 Přepočítal jsem konzervy, chybělo jich dvaadevadesát
 
 _Takže už od prvního dne cesty platila úsporná opatření_
+
+  
 
 Přestože věděli, že jednám v jejich zájmu
 
@@ -52,6 +57,8 @@ mí mužové na mě hleděli s nenávistí,
 
 _bylo mi jasné, že si je nesmím pouštět za záda_
 
+  
+
 Za vedra více než padesátistupňového
 
 pluli jsme proti proudu pomalu
@@ -62,13 +69,19 @@ mezi holými, jen místy travou a nízkými keři
 
 _plnými krokodýlů,_
 
+  
+
 často jsme stáli a pískali parní píšťalou,
 
 _neboť bylo třeba rozehnat stádo hrochů_
 
+  
+
 Tu a tam po nás někdo vystřelil,
 
 _ale jen z pušky_
+
+  
 
 Zběh na břeh nesměl. Jeden z četníků
 
@@ -80,6 +93,8 @@ druhý dole hlídal černochy, třetí z paluby sledoval
 
 _takže k ruce jsem měl jen čtyři lidi_
 
+  
+
 V žádné z vesnic jsme nepobyli dlouho
 
 Doplnili jsme zásobu vody a dřeva a odvedli
@@ -89,6 +104,8 @@ jenom ty muže, kteří byli nablízku a moc se nebránili,
 nejhorší materiál, ale
 
 _s chytáním ostatních jsme se zdržovat nemohli_
+
+  
 
 Nechtěli jsme se příliš vzdalovat od vody
 
@@ -104,11 +121,15 @@ abychom rekruty, kteří již leželi svázaní v podpalubí,
 
         _ve Vádí Halfě živé_
 
+  
+
 To se nepodařilo,
 
 kousek nad Timou jsme totiž místo na hrocha
 
         _najeli na minu_
+
+  
 
 Se mnou se zachránili Agnelloz, Ribeira, Swinik,
 
@@ -118,17 +139,23 @@ Se mnou se zachránili Agnelloz, Ribeira, Swinik,
 
 _ostatní byli tak opilí, že nedoplavali ke břehu_
 
+  
+
 Byl jsem odsouzen k smrti zastřelením
 
 a potom — už zase v hodnosti vojína — poslán na
 
         _osmnáct měsíců ke kárné jednotce_
 
+  
+
 Obvinili mě také z toho, že zmizela čísi kráva
 
 a že jsem nezabránil
 
 _uloupení kořalky ze skladu ve faktorii v Timě_
+
+  
 
 Měl jsem štěstí
 

@@ -1,8 +1,7 @@
 ---
+title: Z řeky se kouří
 contentType: prose
 ---
-
-Z řeky se kouří
 
 Z řeky se kouří
 

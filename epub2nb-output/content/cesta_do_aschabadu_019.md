@@ -1,8 +1,7 @@
 ---
+title: Zhasla světla
 contentType: prose
 ---
-
-Zhasla světla
 
 Zhasla světla v oknech hospody
 

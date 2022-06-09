@@ -1,8 +1,7 @@
 ---
+title: Mistr Kadó si zul
 contentType: prose
 ---
-
-Mistr Kadó si zul
 
 Mistr Kadó si zul z pravé nohy střevíc, vyhodil jej za dveře
 
