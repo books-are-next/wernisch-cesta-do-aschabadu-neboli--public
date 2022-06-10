@@ -3,9 +3,13 @@ title: Zpívají bojovníci
 contentType: prose
 ---
 
+<section>
+
 _(Omahové, Severní Amerika)_
 
-  
+</section>
+
+<section>
 
 Pohleďte, jak strašlivý je náš bůh, náš strašlivý otec!
 
@@ -26,3 +30,5 @@ Pohleďte! Vidíte, jak strašlivý je kyj v ruce našeho
 Je hrozné hledět na tak hrůzného boha!
 
 Strašlivý je náš otec! Strašlivý! Strašlivý!
+
+</section>

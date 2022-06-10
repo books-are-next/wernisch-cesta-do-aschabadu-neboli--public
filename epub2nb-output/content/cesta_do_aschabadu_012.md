@@ -3,6 +3,8 @@ title: Vítězná píseň
 contentType: prose
 ---
 
+<section>
+
 Zabil jsem muže, který někam šel
 
 Zabil jsem opici
@@ -15,13 +17,17 @@ Zabil jsem opici, která se smála,
 
 _tak jako já se směju_
 
-  
+</section>
+
+<section>
 
 Zabil jsem býka. Řval,
 
 _jako já řvu_
 
-  
+</section>
+
+<section>
 
 Leoparda jsem zabil
 
@@ -31,7 +37,9 @@ Jsem leopard, zloděj,
 
 _schovávám se v lese_
 
-  
+</section>
+
+<section>
 
 Pantera jsem zabil,
 
@@ -41,7 +49,9 @@ Lepší než zabít mnoho mužů
 
 _Jsem panter_
 
-  
+</section>
+
+<section>
 
 Zabil jsem lva
 
@@ -49,7 +59,9 @@ Zabíjím lvy, vždycky je zabiju
 
 _Utíkejte, já jsem lev!_
 
-  
+</section>
+
+<section>
 
 Zabil jsem jezdce
 
@@ -59,7 +71,9 @@ před kterou všichni prchali
 
 _Prchejte, já jsem věž!_
 
-  
+</section>
+
+<section>
 
 Žena, kterou jsem zabil, patřila Somálci
 
@@ -70,3 +84,5 @@ jeho pastevce jsem pobil
 Zabil jsem Somálce
 
 Klekl jsem na něho, a nyní jsem jako on
+
+</section>

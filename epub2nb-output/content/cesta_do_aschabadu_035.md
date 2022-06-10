@@ -3,6 +3,8 @@ title: Mistr Kadó si zul
 contentType: prose
 ---
 
+<section>
+
 Mistr Kadó si zul z pravé nohy střevíc, vyhodil jej za dveře
 
 a otázal se: Kde je můj střevíc?
@@ -34,3 +36,5 @@ Kde je můj střevíc! vykřikl mistr Kadó a sáhl pro hůl.
 A tu nějaký žák, jistě ten, jehož místo bylo nejblíže dveřím, vyběhl ven, přinesl střevíc, poklekl před mistrem, poklonil se až k zemi, políbil mistrovu pravou nohu a…
 
 Zde je můj střevíc! zvolal mistr a přetáhl žáka holí po hřbetě.
+
+</section>

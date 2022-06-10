@@ -3,6 +3,8 @@ title: Jeden chudý starý muž
 contentType: prose
 ---
 
+<section>
+
 Jeden chudý starý muž neměl čím nakrmit svého ko­houta. Kohout se rozzlobil, stoupl si na břeh řeky, na­foukl se a volal: Všechno, co voda přinese, sezobnu!
 
 Připlul po řece had. Zob!
@@ -22,3 +24,5 @@ Dlouho to trvalo, než se starý muž postavil na nohy, ale jen se postavil, roz
 Starý muž se posadil k ohni a zpíval:
 
 Voda se vaří, a v té vodě se uvaří kohout. Sedím, čekám, až se uvaří kohout, a ti Boerové a ti vojáci jdou pěšky.
+
+</section>
