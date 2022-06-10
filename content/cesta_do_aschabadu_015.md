@@ -3,6 +3,8 @@ title: Zimník
 contentType: prose
 ---
 
+<section>
+
 _o katalominai rhinozerossola hopsamen laulitalomini hoooo_
 
 _gadjama rhinozerossola hopsamen_
@@ -29,7 +31,9 @@ a jako strojníka zběha „s nárokem na milost“
 
         _dočasně propuštěného z divizního vězení_
 
-  
+</section>
+
+<section>
 
 Hned po nalodění
 
@@ -39,13 +43,17 @@ Hayez, jehož jsem jmenoval intendantem, přišel za mnou
 
 _že máme o čtyři guláše míň_
 
-  
+</section>
+
+<section>
 
 Přepočítal jsem konzervy, chybělo jich dvaadevadesát
 
 _Takže už od prvního dne cesty platila úsporná opatření_
 
-  
+</section>
+
+<section>
 
 Přestože věděli, že jednám v jejich zájmu
 
@@ -57,7 +65,9 @@ mí mužové na mě hleděli s nenávistí,
 
 _bylo mi jasné, že si je nesmím pouštět za záda_
 
-  
+</section>
+
+<section>
 
 Za vedra více než padesátistupňového
 
@@ -69,19 +79,25 @@ mezi holými, jen místy travou a nízkými keři
 
 _plnými krokodýlů,_
 
-  
+</section>
+
+<section>
 
 často jsme stáli a pískali parní píšťalou,
 
 _neboť bylo třeba rozehnat stádo hrochů_
 
-  
+</section>
+
+<section>
 
 Tu a tam po nás někdo vystřelil,
 
 _ale jen z pušky_
 
-  
+</section>
+
+<section>
 
 Zběh na břeh nesměl. Jeden z četníků
 
@@ -93,7 +109,9 @@ druhý dole hlídal černochy, třetí z paluby sledoval
 
 _takže k ruce jsem měl jen čtyři lidi_
 
-  
+</section>
+
+<section>
 
 V žádné z vesnic jsme nepobyli dlouho
 
@@ -105,7 +123,9 @@ nejhorší materiál, ale
 
 _s chytáním ostatních jsme se zdržovat nemohli_
 
-  
+</section>
+
+<section>
 
 Nechtěli jsme se příliš vzdalovat od vody
 
@@ -121,7 +141,9 @@ abychom rekruty, kteří již leželi svázaní v podpalubí,
 
         _ve Vádí Halfě živé_
 
-  
+</section>
+
+<section>
 
 To se nepodařilo,
 
@@ -129,7 +151,9 @@ kousek nad Timou jsme totiž místo na hrocha
 
         _najeli na minu_
 
-  
+</section>
+
+<section>
 
 Se mnou se zachránili Agnelloz, Ribeira, Swinik,
 
@@ -139,7 +163,9 @@ Se mnou se zachránili Agnelloz, Ribeira, Swinik,
 
 _ostatní byli tak opilí, že nedoplavali ke břehu_
 
-  
+</section>
+
+<section>
 
 Byl jsem odsouzen k smrti zastřelením
 
@@ -147,7 +173,9 @@ a potom — už zase v hodnosti vojína — poslán na
 
         _osmnáct měsíců ke kárné jednotce_
 
-  
+</section>
+
+<section>
 
 Obvinili mě také z toho, že zmizela čísi kráva
 
@@ -155,7 +183,9 @@ a že jsem nezabránil
 
 _uloupení kořalky ze skladu ve faktorii v Timě_
 
-  
+</section>
+
+<section>
 
 Měl jsem štěstí
 
@@ -180,3 +210,5 @@ a předvolání před civilní soud
 za krádež zimního kabátu, jíž prý jsem se dopustil
 
 ještě před válkou v Bapaume
+
+</section>

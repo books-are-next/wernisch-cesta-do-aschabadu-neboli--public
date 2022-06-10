@@ -3,6 +3,8 @@ title: Mistr Kadó
 contentType: prose
 ---
 
+<section>
+
 Mistr Kadó strčil svému žákovi do ruky hůl a řekl: Udeř mne.
 
 Ale mistře! polekal se žák.
@@ -28,3 +30,5 @@ Zadrž! vykřikl mistr Kadó a zachmuřil se: Nezdárný žáku! Ihned odejdi, a
 Zoufalý žák si zakryl tvář rukávem a šel.
 
 Poslušnost a neposlušnost jsou projevy slabého ducha, řekl mistr Kadó.
+
+</section>
