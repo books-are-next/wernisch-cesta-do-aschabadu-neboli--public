@@ -1,6 +1,6 @@
 ---
 title: Jednou si mistr Kadó jen tak vyšel
-contentType: prose
+contentType: poetry
 ---
 
 <section>

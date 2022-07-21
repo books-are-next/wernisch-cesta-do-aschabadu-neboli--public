@@ -1,6 +1,6 @@
 ---
 title: Jednoho rána se objevilo slunce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

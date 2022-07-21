@@ -1,6 +1,6 @@
 ---
 title: Smrt na nás čekala jinde
-contentType: prose
+contentType: poetry
 ---
 
 <section>

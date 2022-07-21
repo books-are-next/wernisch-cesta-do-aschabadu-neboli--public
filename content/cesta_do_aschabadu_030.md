@@ -1,6 +1,6 @@
 ---
 title: Šašci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

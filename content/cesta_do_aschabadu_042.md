@@ -1,6 +1,6 @@
 ---
 title: A řekl Yün-men
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Cesta do Ašchabadu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

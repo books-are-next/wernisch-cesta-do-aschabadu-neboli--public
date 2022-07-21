@@ -1,6 +1,6 @@
 ---
 title: Krev teče
-contentType: prose
+contentType: poetry
 ---
 
 <section>

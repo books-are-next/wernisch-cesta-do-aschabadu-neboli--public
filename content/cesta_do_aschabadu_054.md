@@ -1,6 +1,6 @@
 ---
 title: Zeptejte se mne nyní
-contentType: prose
+contentType: poetry
 ---
 
 <section>

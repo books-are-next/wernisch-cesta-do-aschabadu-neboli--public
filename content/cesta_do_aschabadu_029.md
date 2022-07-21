@@ -1,6 +1,6 @@
 ---
 title: V poledním žáru
-contentType: prose
+contentType: poetry
 ---
 
 <section>

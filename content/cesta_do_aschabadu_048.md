@@ -1,6 +1,6 @@
 ---
 title: Při pohledu na mrtvého havrana
-contentType: prose
+contentType: poetry
 ---
 
 <section>

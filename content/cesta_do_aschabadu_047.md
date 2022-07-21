@@ -1,6 +1,6 @@
 ---
 title: Měli jsme štěstí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

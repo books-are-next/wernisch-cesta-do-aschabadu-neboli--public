@@ -1,6 +1,6 @@
 ---
 title: Mistr Kadó
-contentType: prose
+contentType: poetry
 ---
 
 <section>

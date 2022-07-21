@@ -1,6 +1,6 @@
 ---
 title: Na cestě
-contentType: prose
+contentType: poetry
 ---
 
 <section>

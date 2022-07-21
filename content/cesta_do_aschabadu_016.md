@@ -1,6 +1,6 @@
 ---
 title: Jeden chudý starý muž
-contentType: prose
+contentType: poetry
 ---
 
 <section>

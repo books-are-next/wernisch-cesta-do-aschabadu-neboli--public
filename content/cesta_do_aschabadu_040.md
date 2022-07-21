@@ -1,6 +1,6 @@
 ---
 title: Řekl Yün-men mnichům
-contentType: prose
+contentType: poetry
 ---
 
 <section>

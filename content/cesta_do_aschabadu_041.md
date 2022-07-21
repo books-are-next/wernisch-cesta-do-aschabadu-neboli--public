@@ -1,6 +1,6 @@
 ---
 title: V zimních lesích u Volchova
-contentType: prose
+contentType: poetry
 ---
 
 <section>

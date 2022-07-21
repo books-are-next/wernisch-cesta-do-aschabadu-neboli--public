@@ -1,6 +1,6 @@
 ---
 title: Chvíli svítí slunce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

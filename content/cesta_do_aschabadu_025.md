@@ -1,6 +1,6 @@
 ---
 title: Výlet
-contentType: prose
+contentType: poetry
 ---
 
 <section>

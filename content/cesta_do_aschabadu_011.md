@@ -1,6 +1,6 @@
 ---
 title: Z řeky se kouří
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Na ostrově
-contentType: prose
+contentType: poetry
 ---
 
 <section>

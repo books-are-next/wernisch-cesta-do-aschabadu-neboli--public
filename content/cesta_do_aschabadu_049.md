@@ -1,6 +1,6 @@
 ---
 title: Byla noc úplného měsíce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

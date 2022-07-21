@@ -1,6 +1,6 @@
 ---
 title: Pak Yün-men pokračoval
-contentType: prose
+contentType: poetry
 ---
 
 <section>
