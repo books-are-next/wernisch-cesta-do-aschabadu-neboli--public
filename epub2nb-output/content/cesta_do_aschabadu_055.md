@@ -1,6 +1,6 @@
 ---
 title: Stmívá se
-contentType: prose
+contentType: poetry
 ---
 
 <section>

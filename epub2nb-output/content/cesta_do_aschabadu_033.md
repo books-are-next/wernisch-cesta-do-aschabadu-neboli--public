@@ -1,6 +1,6 @@
 ---
 title: Vozík
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Když sem šel do Temešváru
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Duce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: U císařského letectva
-contentType: prose
+contentType: poetry
 ---
 
 <section>

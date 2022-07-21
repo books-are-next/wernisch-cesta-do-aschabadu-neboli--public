@@ -1,6 +1,6 @@
 ---
 title: Mistr Kadó si zul
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Vozová cesta v lese
-contentType: prose
+contentType: poetry
 ---
 
 <section>

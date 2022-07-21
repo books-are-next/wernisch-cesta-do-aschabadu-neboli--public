@@ -1,6 +1,6 @@
 ---
 title: Chlebová polévka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Ranní déšť věstil štěstí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

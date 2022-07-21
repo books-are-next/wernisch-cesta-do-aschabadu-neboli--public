@@ -1,6 +1,6 @@
 ---
 title: Toto
-contentType: prose
+contentType: poetry
 ---
 
 <section>

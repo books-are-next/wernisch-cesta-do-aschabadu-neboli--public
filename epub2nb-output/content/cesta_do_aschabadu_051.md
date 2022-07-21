@@ -1,6 +1,6 @@
 ---
 title: Zpívají bojovníci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

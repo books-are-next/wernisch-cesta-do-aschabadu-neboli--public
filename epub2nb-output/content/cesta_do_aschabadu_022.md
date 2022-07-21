@@ -1,6 +1,6 @@
 ---
 title: Na cestě v polích
-contentType: prose
+contentType: poetry
 ---
 
 <section>

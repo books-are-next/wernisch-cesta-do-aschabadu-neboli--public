@@ -1,6 +1,6 @@
 ---
 title: Pumpke a dalajlámové
-contentType: prose
+contentType: poetry
 ---
 
 <section>

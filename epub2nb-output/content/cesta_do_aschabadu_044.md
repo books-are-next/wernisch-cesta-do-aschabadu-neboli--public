@@ -1,6 +1,6 @@
 ---
 title: Zavanulo ode dveří
-contentType: prose
+contentType: poetry
 ---
 
 <section>

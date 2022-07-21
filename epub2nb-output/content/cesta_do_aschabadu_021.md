@@ -1,6 +1,6 @@
 ---
 title: Leskne se bahno
-contentType: prose
+contentType: poetry
 ---
 
 <section>

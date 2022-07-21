@@ -1,6 +1,6 @@
 ---
 title: Vítězná píseň
-contentType: prose
+contentType: poetry
 ---
 
 <section>

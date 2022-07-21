@@ -1,0 +1,1222 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Cesta do Ašchabadu",
+  "author": "Ivan Wernisch",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "wernisch-cesta-do-aschabadu-fb56e7d",
+  "revision": "fb56e7d",
+  "readingOrder": [
+    "promo.html",
+    "cesta_do_aschabadu_001.html",
+    "cesta_do_aschabadu_002.html",
+    "cesta_do_aschabadu_003.html",
+    "cesta_do_aschabadu_004.html",
+    "cesta_do_aschabadu_005.html",
+    "cesta_do_aschabadu_006.html",
+    "cesta_do_aschabadu_007.html",
+    "cesta_do_aschabadu_008.html",
+    "cesta_do_aschabadu_009.html",
+    "cesta_do_aschabadu_010.html",
+    "cesta_do_aschabadu_011.html",
+    "cesta_do_aschabadu_012.html",
+    "cesta_do_aschabadu_013.html",
+    "cesta_do_aschabadu_014.html",
+    "cesta_do_aschabadu_015.html",
+    "cesta_do_aschabadu_016.html",
+    "cesta_do_aschabadu_017.html",
+    "cesta_do_aschabadu_018.html",
+    "cesta_do_aschabadu_019.html",
+    "cesta_do_aschabadu_020.html",
+    "cesta_do_aschabadu_021.html",
+    "cesta_do_aschabadu_022.html",
+    "cesta_do_aschabadu_023.html",
+    "cesta_do_aschabadu_024.html",
+    "cesta_do_aschabadu_025.html",
+    "cesta_do_aschabadu_026.html",
+    "cesta_do_aschabadu_027.html",
+    "cesta_do_aschabadu_028.html",
+    "cesta_do_aschabadu_029.html",
+    "cesta_do_aschabadu_030.html",
+    "cesta_do_aschabadu_031.html",
+    "cesta_do_aschabadu_032.html",
+    "cesta_do_aschabadu_033.html",
+    "cesta_do_aschabadu_034.html",
+    "cesta_do_aschabadu_035.html",
+    "cesta_do_aschabadu_036.html",
+    "cesta_do_aschabadu_037.html",
+    "cesta_do_aschabadu_038.html",
+    "cesta_do_aschabadu_039.html",
+    "cesta_do_aschabadu_040.html",
+    "cesta_do_aschabadu_041.html",
+    "cesta_do_aschabadu_042.html",
+    "cesta_do_aschabadu_043.html",
+    "cesta_do_aschabadu_044.html",
+    "cesta_do_aschabadu_045.html",
+    "cesta_do_aschabadu_046.html",
+    "cesta_do_aschabadu_047.html",
+    "cesta_do_aschabadu_048.html",
+    "cesta_do_aschabadu_049.html",
+    "cesta_do_aschabadu_050.html",
+    "cesta_do_aschabadu_051.html",
+    "cesta_do_aschabadu_052.html",
+    "cesta_do_aschabadu_053.html",
+    "cesta_do_aschabadu_054.html",
+    "cesta_do_aschabadu_055.html",
+    "cesta_do_aschabadu_056.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 21 2022 09:43:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658396633349
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cesta_do_aschabadu_001.html",
+      "toc": []
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "cesta_do_aschabadu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "cesta_do_aschabadu_001.html",
+      "next": "cesta_do_aschabadu_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_003.html",
+      "words": 9,
+      "chars": 58,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "cesta_do_aschabadu_002.html",
+      "next": "cesta_do_aschabadu_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_004.html",
+      "words": 92,
+      "chars": 600,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "cesta_do_aschabadu_003.html",
+      "next": "cesta_do_aschabadu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_005.html",
+      "words": 6,
+      "chars": 38,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "cesta_do_aschabadu_004.html",
+      "next": "cesta_do_aschabadu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TY, KTERÁ HLEDÍŠ",
+      "file": "cesta_do_aschabadu_006.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "cesta_do_aschabadu_005.html",
+      "next": "cesta_do_aschabadu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TY, KTERÁ HLEDÍŠ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ty, která hledíš",
+      "file": "cesta_do_aschabadu_007.html",
+      "words": 121,
+      "chars": 652,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 7,
+      "prev": "cesta_do_aschabadu_006.html",
+      "next": "cesta_do_aschabadu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ty, která hledíš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CESTA DO AŠCHABADU",
+      "file": "cesta_do_aschabadu_008.html",
+      "words": 19,
+      "chars": 142,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 8,
+      "prev": "cesta_do_aschabadu_007.html",
+      "next": "cesta_do_aschabadu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CESTA DO AŠCHABADU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chvíli svítí slunce",
+      "file": "cesta_do_aschabadu_009.html",
+      "words": 20,
+      "chars": 139,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 9,
+      "prev": "cesta_do_aschabadu_008.html",
+      "next": "cesta_do_aschabadu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chvíli svítí slunce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_010.html",
+      "words": 256,
+      "chars": 1383,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 10,
+      "prev": "cesta_do_aschabadu_009.html",
+      "next": "cesta_do_aschabadu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta do Ašchabadu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z řeky se kouří",
+      "file": "cesta_do_aschabadu_011.html",
+      "words": 17,
+      "chars": 68,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "cesta_do_aschabadu_010.html",
+      "next": "cesta_do_aschabadu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z řeky se kouří",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vítězná píseň",
+      "file": "cesta_do_aschabadu_012.html",
+      "words": 127,
+      "chars": 686,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 12,
+      "prev": "cesta_do_aschabadu_011.html",
+      "next": "cesta_do_aschabadu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vítězná píseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poklička klape",
+      "file": "cesta_do_aschabadu_013.html",
+      "words": 27,
+      "chars": 157,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 13,
+      "prev": "cesta_do_aschabadu_012.html",
+      "next": "cesta_do_aschabadu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poklička klape",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mistr Kadó",
+      "file": "cesta_do_aschabadu_014.html",
+      "words": 123,
+      "chars": 669,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 14,
+      "prev": "cesta_do_aschabadu_013.html",
+      "next": "cesta_do_aschabadu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mistr Kadó",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zimník",
+      "file": "cesta_do_aschabadu_015.html",
+      "words": 445,
+      "chars": 2608,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 15,
+      "prev": "cesta_do_aschabadu_014.html",
+      "next": "cesta_do_aschabadu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zimník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jeden chudý starý muž",
+      "file": "cesta_do_aschabadu_016.html",
+      "words": 152,
+      "chars": 811,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 16,
+      "prev": "cesta_do_aschabadu_015.html",
+      "next": "cesta_do_aschabadu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jeden chudý starý muž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krev teče",
+      "file": "cesta_do_aschabadu_017.html",
+      "words": 22,
+      "chars": 130,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 17,
+      "prev": "cesta_do_aschabadu_016.html",
+      "next": "cesta_do_aschabadu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krev teče",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pumpke a dalajlámové",
+      "file": "cesta_do_aschabadu_018.html",
+      "words": 216,
+      "chars": 1342,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 18,
+      "prev": "cesta_do_aschabadu_017.html",
+      "next": "cesta_do_aschabadu_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pumpke a dalajlámové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zhasla světla",
+      "file": "cesta_do_aschabadu_019.html",
+      "words": 15,
+      "chars": 90,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 19,
+      "prev": "cesta_do_aschabadu_018.html",
+      "next": "cesta_do_aschabadu_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zhasla světla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrt na nás čekala jinde",
+      "file": "cesta_do_aschabadu_020.html",
+      "words": 337,
+      "chars": 1951,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 20,
+      "prev": "cesta_do_aschabadu_019.html",
+      "next": "cesta_do_aschabadu_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrt na nás čekala jinde",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Leskne se bahno",
+      "file": "cesta_do_aschabadu_021.html",
+      "words": 22,
+      "chars": 107,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 21,
+      "prev": "cesta_do_aschabadu_020.html",
+      "next": "cesta_do_aschabadu_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Leskne se bahno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na cestě v polích",
+      "file": "cesta_do_aschabadu_022.html",
+      "words": 96,
+      "chars": 545,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 22,
+      "prev": "cesta_do_aschabadu_021.html",
+      "next": "cesta_do_aschabadu_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na cestě v polích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednou si mistr Kadó jen tak vyšel",
+      "file": "cesta_do_aschabadu_023.html",
+      "words": 93,
+      "chars": 494,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 23,
+      "prev": "cesta_do_aschabadu_022.html",
+      "next": "cesta_do_aschabadu_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jednou si mistr Kadó jen tak vyšel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mír pokračuje",
+      "file": "cesta_do_aschabadu_024.html",
+      "words": 367,
+      "chars": 2204,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 24,
+      "prev": "cesta_do_aschabadu_023.html",
+      "next": "cesta_do_aschabadu_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mír pokračuje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výlet",
+      "file": "cesta_do_aschabadu_025.html",
+      "words": 45,
+      "chars": 314,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 25,
+      "prev": "cesta_do_aschabadu_024.html",
+      "next": "cesta_do_aschabadu_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výlet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U císařského letectva",
+      "file": "cesta_do_aschabadu_026.html",
+      "words": 44,
+      "chars": 271,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 26,
+      "prev": "cesta_do_aschabadu_025.html",
+      "next": "cesta_do_aschabadu_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U císařského letectva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z dějin leteckého umění",
+      "file": "cesta_do_aschabadu_027.html",
+      "words": 43,
+      "chars": 248,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 27,
+      "prev": "cesta_do_aschabadu_026.html",
+      "next": "cesta_do_aschabadu_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z dějin leteckého umění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duce",
+      "file": "cesta_do_aschabadu_028.html",
+      "words": 17,
+      "chars": 104,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 28,
+      "prev": "cesta_do_aschabadu_027.html",
+      "next": "cesta_do_aschabadu_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V poledním žáru",
+      "file": "cesta_do_aschabadu_029.html",
+      "words": 11,
+      "chars": 61,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 29,
+      "prev": "cesta_do_aschabadu_028.html",
+      "next": "cesta_do_aschabadu_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V poledním žáru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šašci",
+      "file": "cesta_do_aschabadu_030.html",
+      "words": 204,
+      "chars": 1167,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 30,
+      "prev": "cesta_do_aschabadu_029.html",
+      "next": "cesta_do_aschabadu_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šašci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když sem šel do Temešváru",
+      "file": "cesta_do_aschabadu_031.html",
+      "words": 80,
+      "chars": 428,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 31,
+      "prev": "cesta_do_aschabadu_030.html",
+      "next": "cesta_do_aschabadu_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když sem šel do Temešváru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V poledním žáru",
+      "file": "cesta_do_aschabadu_032.html",
+      "words": 13,
+      "chars": 66,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 32,
+      "prev": "cesta_do_aschabadu_031.html",
+      "next": "cesta_do_aschabadu_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V poledním žáru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vozík",
+      "file": "cesta_do_aschabadu_033.html",
+      "words": 257,
+      "chars": 1419,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 33,
+      "prev": "cesta_do_aschabadu_032.html",
+      "next": "cesta_do_aschabadu_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vozík",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na ostrově",
+      "file": "cesta_do_aschabadu_034.html",
+      "words": 38,
+      "chars": 210,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 34,
+      "prev": "cesta_do_aschabadu_033.html",
+      "next": "cesta_do_aschabadu_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na ostrově",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mistr Kadó si zul",
+      "file": "cesta_do_aschabadu_035.html",
+      "words": 164,
+      "chars": 883,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 35,
+      "prev": "cesta_do_aschabadu_034.html",
+      "next": "cesta_do_aschabadu_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mistr Kadó si zul",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chlebová polévka",
+      "file": "cesta_do_aschabadu_036.html",
+      "words": 166,
+      "chars": 901,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 36,
+      "prev": "cesta_do_aschabadu_035.html",
+      "next": "cesta_do_aschabadu_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chlebová polévka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rakve jdou",
+      "file": "cesta_do_aschabadu_037.html",
+      "words": 40,
+      "chars": 239,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 37,
+      "prev": "cesta_do_aschabadu_036.html",
+      "next": "cesta_do_aschabadu_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rakve jdou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vozová cesta v lese",
+      "file": "cesta_do_aschabadu_038.html",
+      "words": 19,
+      "chars": 94,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 38,
+      "prev": "cesta_do_aschabadu_037.html",
+      "next": "cesta_do_aschabadu_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vozová cesta v lese",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ranní déšť věstil štěstí",
+      "file": "cesta_do_aschabadu_039.html",
+      "words": 226,
+      "chars": 1310,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 39,
+      "prev": "cesta_do_aschabadu_038.html",
+      "next": "cesta_do_aschabadu_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ranní déšť věstil štěstí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řekl Yün-men mnichům",
+      "file": "cesta_do_aschabadu_040.html",
+      "words": 48,
+      "chars": 291,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 40,
+      "prev": "cesta_do_aschabadu_039.html",
+      "next": "cesta_do_aschabadu_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řekl Yün-men mnichům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V zimních lesích u Volchova",
+      "file": "cesta_do_aschabadu_041.html",
+      "words": 54,
+      "chars": 296,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 41,
+      "prev": "cesta_do_aschabadu_040.html",
+      "next": "cesta_do_aschabadu_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V zimních lesích u Volchova",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A řekl Yün-men",
+      "file": "cesta_do_aschabadu_042.html",
+      "words": 50,
+      "chars": 289,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 42,
+      "prev": "cesta_do_aschabadu_041.html",
+      "next": "cesta_do_aschabadu_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A řekl Yün-men",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pak Yün-men pokračoval",
+      "file": "cesta_do_aschabadu_043.html",
+      "words": 78,
+      "chars": 455,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 43,
+      "prev": "cesta_do_aschabadu_042.html",
+      "next": "cesta_do_aschabadu_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pak Yün-men pokračoval",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zavanulo ode dveří",
+      "file": "cesta_do_aschabadu_044.html",
+      "words": 19,
+      "chars": 98,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 44,
+      "prev": "cesta_do_aschabadu_043.html",
+      "next": "cesta_do_aschabadu_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zavanulo ode dveří",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednoho rána se objevilo slunce",
+      "file": "cesta_do_aschabadu_045.html",
+      "words": 170,
+      "chars": 945,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 45,
+      "prev": "cesta_do_aschabadu_044.html",
+      "next": "cesta_do_aschabadu_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jednoho rána se objevilo slunce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mistr Kadó",
+      "file": "cesta_do_aschabadu_046.html",
+      "words": 63,
+      "chars": 360,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 46,
+      "prev": "cesta_do_aschabadu_045.html",
+      "next": "cesta_do_aschabadu_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mistr Kadó",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měli jsme štěstí",
+      "file": "cesta_do_aschabadu_047.html",
+      "words": 258,
+      "chars": 1480,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 47,
+      "prev": "cesta_do_aschabadu_046.html",
+      "next": "cesta_do_aschabadu_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Měli jsme štěstí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Při pohledu na mrtvého havrana",
+      "file": "cesta_do_aschabadu_048.html",
+      "words": 34,
+      "chars": 207,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 48,
+      "prev": "cesta_do_aschabadu_047.html",
+      "next": "cesta_do_aschabadu_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Při pohledu na mrtvého havrana",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Byla noc úplného měsíce",
+      "file": "cesta_do_aschabadu_049.html",
+      "words": 138,
+      "chars": 859,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 49,
+      "prev": "cesta_do_aschabadu_048.html",
+      "next": "cesta_do_aschabadu_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Byla noc úplného měsíce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední den",
+      "file": "cesta_do_aschabadu_050.html",
+      "words": 178,
+      "chars": 1047,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 50,
+      "prev": "cesta_do_aschabadu_049.html",
+      "next": "cesta_do_aschabadu_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpívají bojovníci",
+      "file": "cesta_do_aschabadu_051.html",
+      "words": 64,
+      "chars": 417,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 51,
+      "prev": "cesta_do_aschabadu_050.html",
+      "next": "cesta_do_aschabadu_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zpívají bojovníci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toto",
+      "file": "cesta_do_aschabadu_052.html",
+      "words": 193,
+      "chars": 676,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 52,
+      "prev": "cesta_do_aschabadu_051.html",
+      "next": "cesta_do_aschabadu_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Toto",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na cestě",
+      "file": "cesta_do_aschabadu_053.html",
+      "words": 141,
+      "chars": 787,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 53,
+      "prev": "cesta_do_aschabadu_052.html",
+      "next": "cesta_do_aschabadu_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na cestě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zeptejte se mne nyní",
+      "file": "cesta_do_aschabadu_054.html",
+      "words": 83,
+      "chars": 468,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 54,
+      "prev": "cesta_do_aschabadu_053.html",
+      "next": "cesta_do_aschabadu_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zeptejte se mne nyní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stmívá se",
+      "file": "cesta_do_aschabadu_055.html",
+      "words": 45,
+      "chars": 254,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 55,
+      "prev": "cesta_do_aschabadu_054.html",
+      "next": "cesta_do_aschabadu_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stmívá se",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ašchabadu",
+      "file": "cesta_do_aschabadu_056.html",
+      "words": 53,
+      "chars": 359,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 56,
+      "prev": "cesta_do_aschabadu_055.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5630,
+      "chars": 31943,
+      "ideas": 923
+    },
+    "chapters": {
+      "words": 5623,
+      "chars": 31893,
+      "ideas": 918
+    }
+  }
+}

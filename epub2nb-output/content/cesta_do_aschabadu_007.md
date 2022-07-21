@@ -1,6 +1,6 @@
 ---
 title: Ty, která hledíš
-contentType: prose
+contentType: poetry
 ---
 
 <section>

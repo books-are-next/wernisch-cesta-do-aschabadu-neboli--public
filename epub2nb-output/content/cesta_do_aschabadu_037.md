@@ -1,6 +1,6 @@
 ---
 title: Rakve jdou
-contentType: prose
+contentType: poetry
 ---
 
 <section>

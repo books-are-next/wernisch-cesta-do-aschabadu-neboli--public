@@ -1,6 +1,6 @@
 ---
 title: Poslední den
-contentType: prose
+contentType: poetry
 ---
 
 <section>

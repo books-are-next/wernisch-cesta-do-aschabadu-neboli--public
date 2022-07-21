@@ -1,6 +1,6 @@
 ---
 title: Poklička klape
-contentType: prose
+contentType: poetry
 ---
 
 <section>

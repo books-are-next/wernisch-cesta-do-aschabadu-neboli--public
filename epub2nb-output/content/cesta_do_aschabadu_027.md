@@ -1,6 +1,6 @@
 ---
 title: Z dějin leteckého umění
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Mír pokračuje
-contentType: prose
+contentType: poetry
 ---
 
 <section>

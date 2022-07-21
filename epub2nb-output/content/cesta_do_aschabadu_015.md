@@ -1,6 +1,6 @@
 ---
 title: Zimník
-contentType: prose
+contentType: poetry
 ---
 
 <section>
