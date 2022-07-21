@@ -1,1 +1,1131 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Cesta do Ašchabadu",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Wernisch",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-05-13T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "cesta_do_aschabadu_001.md",
+            "xhtml": "cesta_do_aschabadu_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cesta_do_aschabadu_002.md",
+            "xhtml": "cesta_do_aschabadu_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cesta_do_aschabadu_003.md",
+            "xhtml": "cesta_do_aschabadu_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cesta_do_aschabadu_004.md",
+            "xhtml": "cesta_do_aschabadu_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cesta_do_aschabadu_005.md",
+            "xhtml": "cesta_do_aschabadu_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cesta_do_aschabadu_006.md",
+            "xhtml": "cesta_do_aschabadu_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "TY, KTERÁ HLEDÍŠ"
+          },
+          {
+            "filename": "cesta_do_aschabadu_007.md",
+            "xhtml": "cesta_do_aschabadu_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Ty, která hledíš"
+          },
+          {
+            "filename": "cesta_do_aschabadu_008.md",
+            "xhtml": "cesta_do_aschabadu_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "CESTA DO AŠCHABADU"
+          },
+          {
+            "filename": "cesta_do_aschabadu_009.md",
+            "xhtml": "cesta_do_aschabadu_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Chvíli svítí slunce"
+          },
+          {
+            "filename": "cesta_do_aschabadu_010.md",
+            "xhtml": "cesta_do_aschabadu_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Cesta do Ašchabadu"
+          },
+          {
+            "filename": "cesta_do_aschabadu_011.md",
+            "xhtml": "cesta_do_aschabadu_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Z řeky se kouří"
+          },
+          {
+            "filename": "cesta_do_aschabadu_012.md",
+            "xhtml": "cesta_do_aschabadu_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Vítězná píseň"
+          },
+          {
+            "filename": "cesta_do_aschabadu_013.md",
+            "xhtml": "cesta_do_aschabadu_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Poklička klape"
+          },
+          {
+            "filename": "cesta_do_aschabadu_014.md",
+            "xhtml": "cesta_do_aschabadu_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Mistr Kadó"
+          },
+          {
+            "filename": "cesta_do_aschabadu_015.md",
+            "xhtml": "cesta_do_aschabadu_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Zimník"
+          },
+          {
+            "filename": "cesta_do_aschabadu_016.md",
+            "xhtml": "cesta_do_aschabadu_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Jeden chudý starý muž"
+          },
+          {
+            "filename": "cesta_do_aschabadu_017.md",
+            "xhtml": "cesta_do_aschabadu_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Krev teče"
+          },
+          {
+            "filename": "cesta_do_aschabadu_018.md",
+            "xhtml": "cesta_do_aschabadu_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Pumpke a dalajlámové"
+          },
+          {
+            "filename": "cesta_do_aschabadu_019.md",
+            "xhtml": "cesta_do_aschabadu_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Zhasla světla"
+          },
+          {
+            "filename": "cesta_do_aschabadu_020.md",
+            "xhtml": "cesta_do_aschabadu_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Smrt na nás čekala jinde"
+          },
+          {
+            "filename": "cesta_do_aschabadu_021.md",
+            "xhtml": "cesta_do_aschabadu_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Leskne se bahno"
+          },
+          {
+            "filename": "cesta_do_aschabadu_022.md",
+            "xhtml": "cesta_do_aschabadu_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Na cestě v polích"
+          },
+          {
+            "filename": "cesta_do_aschabadu_023.md",
+            "xhtml": "cesta_do_aschabadu_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Jednou si mistr Kadó jen tak vyšel"
+          },
+          {
+            "filename": "cesta_do_aschabadu_024.md",
+            "xhtml": "cesta_do_aschabadu_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Mír pokračuje"
+          },
+          {
+            "filename": "cesta_do_aschabadu_025.md",
+            "xhtml": "cesta_do_aschabadu_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Výlet"
+          },
+          {
+            "filename": "cesta_do_aschabadu_026.md",
+            "xhtml": "cesta_do_aschabadu_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "U císařského letectva"
+          },
+          {
+            "filename": "cesta_do_aschabadu_027.md",
+            "xhtml": "cesta_do_aschabadu_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Z dějin leteckého umění"
+          },
+          {
+            "filename": "cesta_do_aschabadu_028.md",
+            "xhtml": "cesta_do_aschabadu_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Duce"
+          },
+          {
+            "filename": "cesta_do_aschabadu_029.md",
+            "xhtml": "cesta_do_aschabadu_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "V poledním žáru"
+          },
+          {
+            "filename": "cesta_do_aschabadu_030.md",
+            "xhtml": "cesta_do_aschabadu_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Šašci"
+          },
+          {
+            "filename": "cesta_do_aschabadu_031.md",
+            "xhtml": "cesta_do_aschabadu_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Když sem šel do Temešváru"
+          },
+          {
+            "filename": "cesta_do_aschabadu_032.md",
+            "xhtml": "cesta_do_aschabadu_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "V poledním žáru"
+          },
+          {
+            "filename": "cesta_do_aschabadu_033.md",
+            "xhtml": "cesta_do_aschabadu_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Vozík"
+          },
+          {
+            "filename": "cesta_do_aschabadu_034.md",
+            "xhtml": "cesta_do_aschabadu_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Na ostrově"
+          },
+          {
+            "filename": "cesta_do_aschabadu_035.md",
+            "xhtml": "cesta_do_aschabadu_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Mistr Kadó si zul"
+          },
+          {
+            "filename": "cesta_do_aschabadu_036.md",
+            "xhtml": "cesta_do_aschabadu_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Chlebová polévka"
+          },
+          {
+            "filename": "cesta_do_aschabadu_037.md",
+            "xhtml": "cesta_do_aschabadu_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Rakve jdou"
+          },
+          {
+            "filename": "cesta_do_aschabadu_038.md",
+            "xhtml": "cesta_do_aschabadu_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Vozová cesta v lese"
+          },
+          {
+            "filename": "cesta_do_aschabadu_039.md",
+            "xhtml": "cesta_do_aschabadu_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Ranní déšť věstil štěstí"
+          },
+          {
+            "filename": "cesta_do_aschabadu_040.md",
+            "xhtml": "cesta_do_aschabadu_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Řekl Yün-men mnichům"
+          },
+          {
+            "filename": "cesta_do_aschabadu_041.md",
+            "xhtml": "cesta_do_aschabadu_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "V zimních lesích u Volchova"
+          },
+          {
+            "filename": "cesta_do_aschabadu_042.md",
+            "xhtml": "cesta_do_aschabadu_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "A řekl Yün-men"
+          },
+          {
+            "filename": "cesta_do_aschabadu_043.md",
+            "xhtml": "cesta_do_aschabadu_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Pak Yün-men pokračoval"
+          },
+          {
+            "filename": "cesta_do_aschabadu_044.md",
+            "xhtml": "cesta_do_aschabadu_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Zavanulo ode dveří"
+          },
+          {
+            "filename": "cesta_do_aschabadu_045.md",
+            "xhtml": "cesta_do_aschabadu_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Jednoho rána se objevilo slunce"
+          },
+          {
+            "filename": "cesta_do_aschabadu_046.md",
+            "xhtml": "cesta_do_aschabadu_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Mistr Kadó"
+          },
+          {
+            "filename": "cesta_do_aschabadu_047.md",
+            "xhtml": "cesta_do_aschabadu_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Měli jsme štěstí"
+          },
+          {
+            "filename": "cesta_do_aschabadu_048.md",
+            "xhtml": "cesta_do_aschabadu_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Při pohledu na mrtvého havrana"
+          },
+          {
+            "filename": "cesta_do_aschabadu_049.md",
+            "xhtml": "cesta_do_aschabadu_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Byla noc úplného měsíce"
+          },
+          {
+            "filename": "cesta_do_aschabadu_050.md",
+            "xhtml": "cesta_do_aschabadu_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Poslední den"
+          },
+          {
+            "filename": "cesta_do_aschabadu_051.md",
+            "xhtml": "cesta_do_aschabadu_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Zpívají bojovníci"
+          },
+          {
+            "filename": "cesta_do_aschabadu_052.md",
+            "xhtml": "cesta_do_aschabadu_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Toto"
+          },
+          {
+            "filename": "cesta_do_aschabadu_053.md",
+            "xhtml": "cesta_do_aschabadu_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Na cestě"
+          },
+          {
+            "filename": "cesta_do_aschabadu_054.md",
+            "xhtml": "cesta_do_aschabadu_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Zeptejte se mne nyní"
+          },
+          {
+            "filename": "cesta_do_aschabadu_055.md",
+            "xhtml": "cesta_do_aschabadu_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Stmívá se"
+          },
+          {
+            "filename": "cesta_do_aschabadu_056.md",
+            "xhtml": "cesta_do_aschabadu_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Cesta do Ašchabadu",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Wernisch",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-05-13T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_001.md",
+        "xhtml": "cesta_do_aschabadu_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_002.md",
+        "xhtml": "cesta_do_aschabadu_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_003.md",
+        "xhtml": "cesta_do_aschabadu_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_004.md",
+        "xhtml": "cesta_do_aschabadu_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_005.md",
+        "xhtml": "cesta_do_aschabadu_005.xhtml"
+      },
+      {
+        "titleSuggest": "TY, KTERÁ HLEDÍŠ",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_006.md",
+        "xhtml": "cesta_do_aschabadu_006.xhtml"
+      },
+      {
+        "titleSuggest": "Ty, která hledíš",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_007.md",
+        "xhtml": "cesta_do_aschabadu_007.xhtml"
+      },
+      {
+        "titleSuggest": "CESTA DO AŠCHABADU",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_008.md",
+        "xhtml": "cesta_do_aschabadu_008.xhtml"
+      },
+      {
+        "titleSuggest": "Chvíli svítí slunce",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_009.md",
+        "xhtml": "cesta_do_aschabadu_009.xhtml"
+      },
+      {
+        "titleSuggest": "Cesta do Ašchabadu",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_010.md",
+        "xhtml": "cesta_do_aschabadu_010.xhtml"
+      },
+      {
+        "titleSuggest": "Z řeky se kouří",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_011.md",
+        "xhtml": "cesta_do_aschabadu_011.xhtml"
+      },
+      {
+        "titleSuggest": "Vítězná píseň",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_012.md",
+        "xhtml": "cesta_do_aschabadu_012.xhtml"
+      },
+      {
+        "titleSuggest": "Poklička klape",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_013.md",
+        "xhtml": "cesta_do_aschabadu_013.xhtml"
+      },
+      {
+        "titleSuggest": "Mistr Kadó",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_014.md",
+        "xhtml": "cesta_do_aschabadu_014.xhtml"
+      },
+      {
+        "titleSuggest": "Zimník",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_015.md",
+        "xhtml": "cesta_do_aschabadu_015.xhtml"
+      },
+      {
+        "titleSuggest": "Jeden chudý starý muž",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_016.md",
+        "xhtml": "cesta_do_aschabadu_016.xhtml"
+      },
+      {
+        "titleSuggest": "Krev teče",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_017.md",
+        "xhtml": "cesta_do_aschabadu_017.xhtml"
+      },
+      {
+        "titleSuggest": "Pumpke a dalajlámové",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_018.md",
+        "xhtml": "cesta_do_aschabadu_018.xhtml"
+      },
+      {
+        "titleSuggest": "Zhasla světla",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_019.md",
+        "xhtml": "cesta_do_aschabadu_019.xhtml"
+      },
+      {
+        "titleSuggest": "Smrt na nás čekala jinde",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_020.md",
+        "xhtml": "cesta_do_aschabadu_020.xhtml"
+      },
+      {
+        "titleSuggest": "Leskne se bahno",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_021.md",
+        "xhtml": "cesta_do_aschabadu_021.xhtml"
+      },
+      {
+        "titleSuggest": "Na cestě v polích",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_022.md",
+        "xhtml": "cesta_do_aschabadu_022.xhtml"
+      },
+      {
+        "titleSuggest": "Jednou si mistr Kadó jen tak vyšel",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_023.md",
+        "xhtml": "cesta_do_aschabadu_023.xhtml"
+      },
+      {
+        "titleSuggest": "Mír pokračuje",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_024.md",
+        "xhtml": "cesta_do_aschabadu_024.xhtml"
+      },
+      {
+        "titleSuggest": "Výlet",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_025.md",
+        "xhtml": "cesta_do_aschabadu_025.xhtml"
+      },
+      {
+        "titleSuggest": "U císařského letectva",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_026.md",
+        "xhtml": "cesta_do_aschabadu_026.xhtml"
+      },
+      {
+        "titleSuggest": "Z dějin leteckého umění",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_027.md",
+        "xhtml": "cesta_do_aschabadu_027.xhtml"
+      },
+      {
+        "titleSuggest": "Duce",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_028.md",
+        "xhtml": "cesta_do_aschabadu_028.xhtml"
+      },
+      {
+        "titleSuggest": "V poledním žáru",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_029.md",
+        "xhtml": "cesta_do_aschabadu_029.xhtml"
+      },
+      {
+        "titleSuggest": "Šašci",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_030.md",
+        "xhtml": "cesta_do_aschabadu_030.xhtml"
+      },
+      {
+        "titleSuggest": "Když sem šel do Temešváru",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_031.md",
+        "xhtml": "cesta_do_aschabadu_031.xhtml"
+      },
+      {
+        "titleSuggest": "V poledním žáru",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_032.md",
+        "xhtml": "cesta_do_aschabadu_032.xhtml"
+      },
+      {
+        "titleSuggest": "Vozík",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_033.md",
+        "xhtml": "cesta_do_aschabadu_033.xhtml"
+      },
+      {
+        "titleSuggest": "Na ostrově",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_034.md",
+        "xhtml": "cesta_do_aschabadu_034.xhtml"
+      },
+      {
+        "titleSuggest": "Mistr Kadó si zul",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_035.md",
+        "xhtml": "cesta_do_aschabadu_035.xhtml"
+      },
+      {
+        "titleSuggest": "Chlebová polévka",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_036.md",
+        "xhtml": "cesta_do_aschabadu_036.xhtml"
+      },
+      {
+        "titleSuggest": "Rakve jdou",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_037.md",
+        "xhtml": "cesta_do_aschabadu_037.xhtml"
+      },
+      {
+        "titleSuggest": "Vozová cesta v lese",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_038.md",
+        "xhtml": "cesta_do_aschabadu_038.xhtml"
+      },
+      {
+        "titleSuggest": "Ranní déšť věstil štěstí",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_039.md",
+        "xhtml": "cesta_do_aschabadu_039.xhtml"
+      },
+      {
+        "titleSuggest": "Řekl Yün-men mnichům",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_040.md",
+        "xhtml": "cesta_do_aschabadu_040.xhtml"
+      },
+      {
+        "titleSuggest": "V zimních lesích u Volchova",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_041.md",
+        "xhtml": "cesta_do_aschabadu_041.xhtml"
+      },
+      {
+        "titleSuggest": "A řekl Yün-men",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_042.md",
+        "xhtml": "cesta_do_aschabadu_042.xhtml"
+      },
+      {
+        "titleSuggest": "Pak Yün-men pokračoval",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_043.md",
+        "xhtml": "cesta_do_aschabadu_043.xhtml"
+      },
+      {
+        "titleSuggest": "Zavanulo ode dveří",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_044.md",
+        "xhtml": "cesta_do_aschabadu_044.xhtml"
+      },
+      {
+        "titleSuggest": "Jednoho rána se objevilo slunce",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_045.md",
+        "xhtml": "cesta_do_aschabadu_045.xhtml"
+      },
+      {
+        "titleSuggest": "Mistr Kadó",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_046.md",
+        "xhtml": "cesta_do_aschabadu_046.xhtml"
+      },
+      {
+        "titleSuggest": "Měli jsme štěstí",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_047.md",
+        "xhtml": "cesta_do_aschabadu_047.xhtml"
+      },
+      {
+        "titleSuggest": "Při pohledu na mrtvého havrana",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_048.md",
+        "xhtml": "cesta_do_aschabadu_048.xhtml"
+      },
+      {
+        "titleSuggest": "Byla noc úplného měsíce",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_049.md",
+        "xhtml": "cesta_do_aschabadu_049.xhtml"
+      },
+      {
+        "titleSuggest": "Poslední den",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_050.md",
+        "xhtml": "cesta_do_aschabadu_050.xhtml"
+      },
+      {
+        "titleSuggest": "Zpívají bojovníci",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_051.md",
+        "xhtml": "cesta_do_aschabadu_051.xhtml"
+      },
+      {
+        "titleSuggest": "Toto",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_052.md",
+        "xhtml": "cesta_do_aschabadu_052.xhtml"
+      },
+      {
+        "titleSuggest": "Na cestě",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_053.md",
+        "xhtml": "cesta_do_aschabadu_053.xhtml"
+      },
+      {
+        "titleSuggest": "Zeptejte se mne nyní",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_054.md",
+        "xhtml": "cesta_do_aschabadu_054.xhtml"
+      },
+      {
+        "titleSuggest": "Stmívá se",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_055.md",
+        "xhtml": "cesta_do_aschabadu_055.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cesta_do_aschabadu_056.md",
+        "xhtml": "cesta_do_aschabadu_056.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/css/cesta_do_a_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/image/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/image/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/image/obalka_cesta_do_aschab_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/image/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-VERSE-0-0",
+      "MLP-VERSE-BLOK-0-0",
+      "MLP-VERSE-BLOK-0-12",
+      "MLP-VERSE-BLOK-0-12-I",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis-podpis",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-tiraz-podnazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-podnazev",
+      "MLP-uroven1-cast",
+      "MLP-uroven2-basne",
+      "MLP-venovani",
+      "MLP-verse--0-12",
+      "MLP-verse--12-0",
+      "MLP-verse--I---0-12",
+      "MLP-znak-kurziva-11b",
+      "char-style-override-1",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5",
+      "para-style-override-6",
+      "para-style-override-7",
+      "para-style-override-8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "wernisch-cesta-do-aschabadu-neboli-pumpke-a-dalajlamove"
+    },
+    "generatedAt": 1657186721188
+  }
+}
