@@ -8,14 +8,10 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-cesta-do-aschabadu-fb56e7d",
-  "revision": "fb56e7d",
+  "identifier": "wernisch-cesta-do-aschabadu-c67eb67",
+  "revision": "c67eb67",
   "readingOrder": [
     "promo.html",
-    "cesta_do_aschabadu_001.html",
-    "cesta_do_aschabadu_002.html",
-    "cesta_do_aschabadu_003.html",
-    "cesta_do_aschabadu_004.html",
     "cesta_do_aschabadu_005.html",
     "cesta_do_aschabadu_006.html",
     "cesta_do_aschabadu_007.html",
@@ -67,11 +63,11 @@
     "cesta_do_aschabadu_053.html",
     "cesta_do_aschabadu_054.html",
     "cesta_do_aschabadu_055.html",
-    "cesta_do_aschabadu_056.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 09:43:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658396633349
+    "date": "Thu Jul 21 2022 09:54:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658397292404
   },
   "documents": [
     {
@@ -83,88 +79,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "cesta_do_aschabadu_001.html",
-      "toc": []
-    },
-    {
-      "title": "Cesta do Ašchabadu",
-      "file": "cesta_do_aschabadu_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "cesta_do_aschabadu_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Cesta do Ašchabadu",
-      "file": "cesta_do_aschabadu_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "cesta_do_aschabadu_001.html",
-      "next": "cesta_do_aschabadu_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Cesta do Ašchabadu",
-      "file": "cesta_do_aschabadu_003.html",
-      "words": 9,
-      "chars": 58,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 3,
-      "prev": "cesta_do_aschabadu_002.html",
-      "next": "cesta_do_aschabadu_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Cesta do Ašchabadu",
-      "file": "cesta_do_aschabadu_004.html",
-      "words": 92,
-      "chars": 600,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "cesta_do_aschabadu_003.html",
       "next": "cesta_do_aschabadu_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Cesta do Ašchabadu",
@@ -173,8 +89,8 @@
       "chars": 38,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
-      "prev": "cesta_do_aschabadu_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "cesta_do_aschabadu_006.html",
       "toc": [
         {
@@ -193,7 +109,7 @@
       "chars": 16,
       "ideas": 1,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "cesta_do_aschabadu_005.html",
       "next": "cesta_do_aschabadu_007.html",
       "toc": [
@@ -213,7 +129,7 @@
       "chars": 652,
       "ideas": 24,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "cesta_do_aschabadu_006.html",
       "next": "cesta_do_aschabadu_008.html",
       "toc": [
@@ -233,7 +149,7 @@
       "chars": 142,
       "ideas": 3,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "cesta_do_aschabadu_007.html",
       "next": "cesta_do_aschabadu_009.html",
       "toc": [
@@ -253,7 +169,7 @@
       "chars": 139,
       "ideas": 6,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "cesta_do_aschabadu_008.html",
       "next": "cesta_do_aschabadu_010.html",
       "toc": [
@@ -273,7 +189,7 @@
       "chars": 1383,
       "ideas": 45,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "cesta_do_aschabadu_009.html",
       "next": "cesta_do_aschabadu_011.html",
       "toc": [
@@ -293,7 +209,7 @@
       "chars": 68,
       "ideas": 4,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "cesta_do_aschabadu_010.html",
       "next": "cesta_do_aschabadu_012.html",
       "toc": [
@@ -313,7 +229,7 @@
       "chars": 686,
       "ideas": 29,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "cesta_do_aschabadu_011.html",
       "next": "cesta_do_aschabadu_013.html",
       "toc": [
@@ -333,7 +249,7 @@
       "chars": 157,
       "ideas": 7,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "cesta_do_aschabadu_012.html",
       "next": "cesta_do_aschabadu_014.html",
       "toc": [
@@ -353,7 +269,7 @@
       "chars": 669,
       "ideas": 14,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "cesta_do_aschabadu_013.html",
       "next": "cesta_do_aschabadu_015.html",
       "toc": [
@@ -373,7 +289,7 @@
       "chars": 2608,
       "ideas": 76,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "cesta_do_aschabadu_014.html",
       "next": "cesta_do_aschabadu_016.html",
       "toc": [
@@ -393,7 +309,7 @@
       "chars": 811,
       "ideas": 11,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "cesta_do_aschabadu_015.html",
       "next": "cesta_do_aschabadu_017.html",
       "toc": [
@@ -413,7 +329,7 @@
       "chars": 130,
       "ideas": 8,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "cesta_do_aschabadu_016.html",
       "next": "cesta_do_aschabadu_018.html",
       "toc": [
@@ -433,7 +349,7 @@
       "chars": 1342,
       "ideas": 6,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "cesta_do_aschabadu_017.html",
       "next": "cesta_do_aschabadu_019.html",
       "toc": [
@@ -453,7 +369,7 @@
       "chars": 90,
       "ideas": 4,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "cesta_do_aschabadu_018.html",
       "next": "cesta_do_aschabadu_020.html",
       "toc": [
@@ -473,7 +389,7 @@
       "chars": 1951,
       "ideas": 64,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "cesta_do_aschabadu_019.html",
       "next": "cesta_do_aschabadu_021.html",
       "toc": [
@@ -493,7 +409,7 @@
       "chars": 107,
       "ideas": 5,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "cesta_do_aschabadu_020.html",
       "next": "cesta_do_aschabadu_022.html",
       "toc": [
@@ -513,7 +429,7 @@
       "chars": 545,
       "ideas": 3,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "cesta_do_aschabadu_021.html",
       "next": "cesta_do_aschabadu_023.html",
       "toc": [
@@ -533,7 +449,7 @@
       "chars": 494,
       "ideas": 4,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "cesta_do_aschabadu_022.html",
       "next": "cesta_do_aschabadu_024.html",
       "toc": [
@@ -553,7 +469,7 @@
       "chars": 2204,
       "ideas": 71,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "cesta_do_aschabadu_023.html",
       "next": "cesta_do_aschabadu_025.html",
       "toc": [
@@ -573,7 +489,7 @@
       "chars": 314,
       "ideas": 3,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "cesta_do_aschabadu_024.html",
       "next": "cesta_do_aschabadu_026.html",
       "toc": [
@@ -593,7 +509,7 @@
       "chars": 271,
       "ideas": 2,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "cesta_do_aschabadu_025.html",
       "next": "cesta_do_aschabadu_027.html",
       "toc": [
@@ -613,7 +529,7 @@
       "chars": 248,
       "ideas": 2,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "cesta_do_aschabadu_026.html",
       "next": "cesta_do_aschabadu_028.html",
       "toc": [
@@ -633,7 +549,7 @@
       "chars": 104,
       "ideas": 2,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "cesta_do_aschabadu_027.html",
       "next": "cesta_do_aschabadu_029.html",
       "toc": [
@@ -653,7 +569,7 @@
       "chars": 61,
       "ideas": 4,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "cesta_do_aschabadu_028.html",
       "next": "cesta_do_aschabadu_030.html",
       "toc": [
@@ -673,7 +589,7 @@
       "chars": 1167,
       "ideas": 35,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "cesta_do_aschabadu_029.html",
       "next": "cesta_do_aschabadu_031.html",
       "toc": [
@@ -693,7 +609,7 @@
       "chars": 428,
       "ideas": 20,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "cesta_do_aschabadu_030.html",
       "next": "cesta_do_aschabadu_032.html",
       "toc": [
@@ -713,7 +629,7 @@
       "chars": 66,
       "ideas": 4,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "cesta_do_aschabadu_031.html",
       "next": "cesta_do_aschabadu_033.html",
       "toc": [
@@ -733,7 +649,7 @@
       "chars": 1419,
       "ideas": 50,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "cesta_do_aschabadu_032.html",
       "next": "cesta_do_aschabadu_034.html",
       "toc": [
@@ -753,7 +669,7 @@
       "chars": 210,
       "ideas": 9,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "cesta_do_aschabadu_033.html",
       "next": "cesta_do_aschabadu_035.html",
       "toc": [
@@ -773,7 +689,7 @@
       "chars": 883,
       "ideas": 17,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "cesta_do_aschabadu_034.html",
       "next": "cesta_do_aschabadu_036.html",
       "toc": [
@@ -793,7 +709,7 @@
       "chars": 901,
       "ideas": 34,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "cesta_do_aschabadu_035.html",
       "next": "cesta_do_aschabadu_037.html",
       "toc": [
@@ -813,7 +729,7 @@
       "chars": 239,
       "ideas": 10,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "cesta_do_aschabadu_036.html",
       "next": "cesta_do_aschabadu_038.html",
       "toc": [
@@ -833,7 +749,7 @@
       "chars": 94,
       "ideas": 5,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "cesta_do_aschabadu_037.html",
       "next": "cesta_do_aschabadu_039.html",
       "toc": [
@@ -853,7 +769,7 @@
       "chars": 1310,
       "ideas": 44,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "cesta_do_aschabadu_038.html",
       "next": "cesta_do_aschabadu_040.html",
       "toc": [
@@ -873,7 +789,7 @@
       "chars": 291,
       "ideas": 6,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "cesta_do_aschabadu_039.html",
       "next": "cesta_do_aschabadu_041.html",
       "toc": [
@@ -893,7 +809,7 @@
       "chars": 296,
       "ideas": 10,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "cesta_do_aschabadu_040.html",
       "next": "cesta_do_aschabadu_042.html",
       "toc": [
@@ -913,7 +829,7 @@
       "chars": 289,
       "ideas": 6,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "cesta_do_aschabadu_041.html",
       "next": "cesta_do_aschabadu_043.html",
       "toc": [
@@ -933,7 +849,7 @@
       "chars": 455,
       "ideas": 3,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "cesta_do_aschabadu_042.html",
       "next": "cesta_do_aschabadu_044.html",
       "toc": [
@@ -953,7 +869,7 @@
       "chars": 98,
       "ideas": 5,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "cesta_do_aschabadu_043.html",
       "next": "cesta_do_aschabadu_045.html",
       "toc": [
@@ -973,7 +889,7 @@
       "chars": 945,
       "ideas": 29,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "cesta_do_aschabadu_044.html",
       "next": "cesta_do_aschabadu_046.html",
       "toc": [
@@ -993,7 +909,7 @@
       "chars": 360,
       "ideas": 5,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "cesta_do_aschabadu_045.html",
       "next": "cesta_do_aschabadu_047.html",
       "toc": [
@@ -1013,7 +929,7 @@
       "chars": 1480,
       "ideas": 49,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "cesta_do_aschabadu_046.html",
       "next": "cesta_do_aschabadu_048.html",
       "toc": [
@@ -1033,7 +949,7 @@
       "chars": 207,
       "ideas": 11,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "cesta_do_aschabadu_047.html",
       "next": "cesta_do_aschabadu_049.html",
       "toc": [
@@ -1053,7 +969,7 @@
       "chars": 859,
       "ideas": 13,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "cesta_do_aschabadu_048.html",
       "next": "cesta_do_aschabadu_050.html",
       "toc": [
@@ -1073,7 +989,7 @@
       "chars": 1047,
       "ideas": 35,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "cesta_do_aschabadu_049.html",
       "next": "cesta_do_aschabadu_051.html",
       "toc": [
@@ -1093,7 +1009,7 @@
       "chars": 417,
       "ideas": 12,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "cesta_do_aschabadu_050.html",
       "next": "cesta_do_aschabadu_052.html",
       "toc": [
@@ -1113,7 +1029,7 @@
       "chars": 676,
       "ideas": 49,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "cesta_do_aschabadu_051.html",
       "next": "cesta_do_aschabadu_053.html",
       "toc": [
@@ -1133,7 +1049,7 @@
       "chars": 787,
       "ideas": 25,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "cesta_do_aschabadu_052.html",
       "next": "cesta_do_aschabadu_054.html",
       "toc": [
@@ -1153,7 +1069,7 @@
       "chars": 468,
       "ideas": 6,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "cesta_do_aschabadu_053.html",
       "next": "cesta_do_aschabadu_055.html",
       "toc": [
@@ -1173,9 +1089,9 @@
       "chars": 254,
       "ideas": 2,
       "role": "chapter",
-      "order": 55,
+      "order": 51,
       "prev": "cesta_do_aschabadu_054.html",
-      "next": "cesta_do_aschabadu_056.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1187,20 +1103,20 @@
       ]
     },
     {
-      "title": "Cesta do Ašchabadu",
-      "file": "cesta_do_aschabadu_056.html",
-      "words": 53,
-      "chars": 359,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 56,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 142,
+      "chars": 917,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
       "prev": "cesta_do_aschabadu_055.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1209,14 +1125,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5630,
-      "chars": 31943,
-      "ideas": 923
+      "words": 5615,
+      "chars": 31838,
+      "ideas": 914
     },
     "chapters": {
-      "words": 5623,
-      "chars": 31893,
-      "ideas": 918
+      "words": 5467,
+      "chars": 30876,
+      "ideas": 893
     }
   }
 }
