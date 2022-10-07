@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-cesta-do-aschabadu-bd28910",
-  "revision": "bd28910",
+  "identifier": "wernisch-cesta-do-aschabadu-3f69f8a",
+  "revision": "3f69f8a",
   "readingOrder": [
     "promo.html",
     "cesta_do_aschabadu_005.html",
@@ -66,8 +66,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:08:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924916920
+    "date": "Fri Oct 07 2022 14:11:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151886189
   },
   "documents": [
     {
