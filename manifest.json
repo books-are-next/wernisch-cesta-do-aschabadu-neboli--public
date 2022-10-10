@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-cesta-do-aschabadu-3f69f8a",
-  "revision": "3f69f8a",
+  "identifier": "wernisch-cesta-do-aschabadu-8550d8d",
+  "revision": "8550d8d",
   "readingOrder": [
     "promo.html",
     "cesta_do_aschabadu_005.html",
@@ -66,8 +66,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:11:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151886189
+    "date": "Mon Oct 10 2022 16:03:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417838749
   },
   "documents": [
     {
@@ -1106,7 +1106,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 142,
-      "chars": 917,
+      "chars": 918,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1126,7 +1126,7 @@
   "totals": {
     "all": {
       "words": 5616,
-      "chars": 31833,
+      "chars": 31834,
       "ideas": 914
     },
     "chapters": {
