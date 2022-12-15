@@ -5,12 +5,9 @@ contentType: poetry
 
 <section>
 
-Věže tanků přimrzaly,
-
-kulomety přestaly střílet,
-
-výbušniny jen syčely,
-
+Věže tanků přimrzaly,  
+kulomety přestaly střílet,  
+výbušniny jen syčely,  
 _pušku bylo třeba nosit pod kabátem,_
 
 </section>
@@ -23,8 +20,7 @@ _ale vši, vši žraly jako dřív —_
 
 <section>
 
-myslel jsem na lásku, abych nemyslel na smrt,
-
+myslel jsem na lásku, abych nemyslel na smrt,  
 _a na smrt jsem myslel, abych nemyslel na lásku —_
 
 </section>

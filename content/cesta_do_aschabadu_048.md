@@ -11,22 +11,14 @@ _(Severoameričtí Eskymáci, Hudsonův záliv)_
 
 <section>
 
-Země,
-
-veliká země!
-
-Víš o té hromádce
-
-zvětralých kostí?
-
-Víš o těch seschlých zbytcích
-
-drcených
-
-strašlivou tíhou
-
-prázdnoty nad námi?
-
+Země,  
+veliká země!  
+Víš o té hromádce  
+zvětralých kostí?  
+Víš o těch seschlých zbytcích  
+drcených  
+strašlivou tíhou  
+prázdnoty nad námi?  
 He — he — he!
 
 </section>
