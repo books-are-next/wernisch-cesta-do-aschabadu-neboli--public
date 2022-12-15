@@ -11,18 +11,15 @@ _(Pygmejové, rovníková Afrika)_
 
 <section>
 
-Krev teče,
-
-krev kape do ohně
-
+Krev teče,  
+krev kape do ohně  
 _Dítě křičí_
 
 </section>
 
 <section>
 
-Zčernalo dřevo
-
+Zčernalo dřevo  
 _Plamen se schovává_
 
 </section>

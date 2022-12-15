@@ -5,14 +5,10 @@ contentType: poetry
 
 <section>
 
-_Serrés les uns contre les autres_
-
-_Les morts sans haine et sans drapeau_
-
-_Cheveux plaqués de sang caillé,_
-
-_Les morts sont tous d’un seul côté._
-
+>_Serrés les uns contre les autres_  
+>_Les morts sans haine et sans drapeau_  
+>_Cheveux plaqués de sang caillé,_  
+>_Les morts sont tous d’un seul côté._  
 > René Arcos
 
 Ze severu jsme se přesunovali
