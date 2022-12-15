@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -96,15 +97,15 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "cesta_do_aschabadu_006.md",
             "xhtml": "cesta_do_aschabadu_006.xhtml",
             "id": 5,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -131,7 +132,7 @@
             "xhtml": "cesta_do_aschabadu_008.xhtml",
             "id": 7,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -1185,6 +1186,6 @@
       "user": "books-are-next",
       "repo": "wernisch-cesta-do-aschabadu-neboli-pumpke-a-dalajlamove"
     },
-    "generatedAt": 1658396519917
+    "generatedAt": 1666351534082
   }
 }
