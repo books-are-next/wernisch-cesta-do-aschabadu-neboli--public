@@ -5,30 +5,21 @@ contentType: poetry
 
 <section>
 
-_o katalominai rhinozerossola hopsamen laulitalomini hoooo_
-
-_gadjama rhinozerossola hopsamen_
-
-_bluku terullala blaulala loooo_
+> o katalominai rhinozerossola hopsamen laulitalomini hoooo gadjama rhinozerossola hopsamen_
+bluku terullala blaulala loooo
 
 > Hugo Ball
 
-Dostal jsem kolesový parník Brazaville,
+Dostal jsem kolesový parník Brazaville,\
+hromadu uhlí,\
+nášivku na rukáv a písemné pověření,\
+dále pytel pšeničné mouky, půl pytle ovesných vloček,\
 
-hromadu uhlí,
+        krabici sucharů, dvě bedny, v každé sto plechovek  
+        s hovězím gulášem  
 
-nášivku na rukáv a písemné pověření,
-
-dále pytel pšeničné mouky, půl pytle ovesných vloček,
-
-        krabici sucharů, dvě bedny, v každé sto plechovek
-
-        s hovězím gulášem
-
-K tomu všemu sedm četníků
-
-a jako strojníka zběha „s nárokem na milost“
-
+K tomu všemu sedm četníků  
+a jako strojníka zběha „s nárokem na milost“\
         _dočasně propuštěného z divizního vězení_
 
 </section>
