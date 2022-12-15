@@ -5,10 +5,8 @@ contentType: poetry
 
 <section>
 
-V poledním žáru
-
-z městského pivovaru
-
+V poledním žáru  
+z městského pivovaru  
 voní otruby
 
 </section>
