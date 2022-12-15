@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-cesta-do-aschabadu-6b66d0a",
-  "revision": "6b66d0a",
+  "identifier": "wernisch-cesta-do-aschabadu-104a79c",
+  "revision": "104a79c",
   "readingOrder": [
     "promo.html",
     "cesta_do_aschabadu_005.html",
@@ -66,8 +66,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Dec 15 2022 08:36:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1671093417880
+    "date": "Thu Dec 15 2022 08:53:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671094397300
   },
   "documents": [
     {
@@ -186,7 +186,7 @@
       "title": "Cesta do Ašchabadu",
       "file": "cesta_do_aschabadu_010.html",
       "words": 256,
-      "chars": 1383,
+      "chars": 1385,
       "ideas": 45,
       "role": "chapter",
       "order": 6,
@@ -266,8 +266,8 @@
       "title": "Mistr Kadó",
       "file": "cesta_do_aschabadu_014.html",
       "words": 123,
-      "chars": 669,
-      "ideas": 14,
+      "chars": 668,
+      "ideas": 15,
       "role": "chapter",
       "order": 10,
       "prev": "cesta_do_aschabadu_013.html",
@@ -286,8 +286,8 @@
       "title": "Zimník",
       "file": "cesta_do_aschabadu_015.html",
       "words": 445,
-      "chars": 2608,
-      "ideas": 76,
+      "chars": 2611,
+      "ideas": 75,
       "role": "chapter",
       "order": 11,
       "prev": "cesta_do_aschabadu_014.html",
@@ -1126,12 +1126,12 @@
   "totals": {
     "all": {
       "words": 5616,
-      "chars": 31834,
+      "chars": 31838,
       "ideas": 914
     },
     "chapters": {
       "words": 5467,
-      "chars": 30876,
+      "chars": 30880,
       "ideas": 893
     }
   }
